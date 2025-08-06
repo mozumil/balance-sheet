@@ -24,7 +24,7 @@ Features:
 
 ## 🖼️ Screenshot
 
-![Balance Sheet Screenshot](/home/mirza/GitHub/Balance-Sheet/ScreenShot.png)
+![Balance Sheet Screenshot](ScreenShot.png)
 
 ## 📁 Project Structure
 
