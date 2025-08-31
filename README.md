@@ -1,5 +1,4 @@
 <!--
-  Balance Sheet Project - SEO Optimized
   A responsive, accessible balance sheet built with HTML5 and CSS3.
   Features semantic markup, sticky headers, and a clean financial layout.
   Created by Muhammad Muzammil Mirza (@mozumil) as part of freeCodeCamp Responsive Web Design Certification.
@@ -23,7 +22,6 @@
 
 A responsive, accessible balance sheet web app built with **HTML5** and **CSS3**.  
 Showcases a clean, modern layout of assets, liabilities, and net worth over three years.
-
 
 ---
 
@@ -65,11 +63,12 @@ Created as part of the [freeCodeCamp Responsive Web Design Certification](https:
 
 ---
 
+...
 ## 🚀 Live Demo
 
-[🔗 View the live project on GitHub Pages](https://mozumil.github.io/Balance-Sheet/)
+[🔗 View the live project on GitHub Pages](https://mozumil.github.io/balance-sheet/)
 
----
+...
 
 ## 🖼️ Screenshot
 
